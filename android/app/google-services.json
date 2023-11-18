@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "485681178538",
+    "firebase_url": "https://mylogincricket-default-rtdb.firebaseio.com",
+    "project_id": "mylogincricket",
+    "storage_bucket": "mylogincricket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485681178538:android:fba44d3e54bea81eaaedd3",
+        "android_client_info": {
+          "package_name": "com.example.newtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485681178538-btnpa1kn2e7aldsq758me5j9m4gds4qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newtest",
+            "certificate_hash": "e02a09e5f391e29d437208a220a5c90860237293"
+          }
+        },
+        {
+          "client_id": "485681178538-ugnlmfbm5909q2gjftt1qkhr0h9f951k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ej8EIgULNMsoVpPTDfoZJ1rzwhz57L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485681178538-ugnlmfbm5909q2gjftt1qkhr0h9f951k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

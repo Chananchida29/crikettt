@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/kitittat_j/Desktop/newtest/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/kitittat_j/.gradle/caches/transforms-3/90f233cdf7a6bfea0df737e070f95e3f/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/kitittat_j/Desktop/newtest/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/kitittat_j/.gradle/caches/transforms-3/90f233cdf7a6bfea0df737e070f95e3f/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/kitittat_j/Desktop/newtest/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/kitittat_j/.gradle/caches/transforms-3/90f233cdf7a6bfea0df737e070f95e3f/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/kitittat_j/Desktop/newtest/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/kitittat_j/.gradle/caches/transforms-3/90f233cdf7a6bfea0df737e070f95e3f/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    }
+]
